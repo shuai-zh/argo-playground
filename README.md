@@ -1,4 +1,4 @@
-# Argo Playground with Kind k8s
+# Argo Playground on Kind Kubernetes
 
 ## Prerequisites
 
