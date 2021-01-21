@@ -1,6 +1,5 @@
 # refer to https://github.com/argoproj/argo-helm/blob/master/charts/argo/values.yaml for more attributes to override
 controller:
-  serviceType: NodePort
   containerRuntimeExecutor: pns # kind uses containerd instead of docker so we have to use `pns` here
 
 server:
