@@ -1,0 +1,5 @@
+# refer to https://github.com/argoproj/argo-helm/blob/master/charts/argo-cd/values.yaml for more attributes to override
+## Server
+server:
+  service:
+    type: NodePort
